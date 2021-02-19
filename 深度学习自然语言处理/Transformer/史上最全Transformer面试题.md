@@ -1,5 +1,5 @@
 史上最全Transformer面试题
-
+https://zhuanlan.zhihu.com/p/266695736
 1. Transformer为何使用多头注意力机制？（为什么不使用一个头）
 2. Transformer为什么Q和K使用不同的权重矩阵生成，为何不能使用同一个值进行自身的点乘？
   （注意和第一个问题的区别）
